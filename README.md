@@ -1,3 +1,4 @@
+<h1 align="center">Tony Edgal</h1>
 <p align="center">
     <img width="750" src="./ReadMe.jpg" alt="Hello">
 </p>
