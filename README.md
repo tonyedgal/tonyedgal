@@ -2,7 +2,7 @@
     <img width="750" src="./ReadMe.jpg" alt="Hello">
 </p>
 <hr />
-## 📜About Me
+<h2>📜About Me</h2>
 <p align="justify">
 I began my developer journey on December 15th, 2020 on <a href="https://www.bitdegree.org" target="_blank" rel="noopener noreferrer">Bitdegree</a> by building the <code>Space-Doggos</code> website. I subsequently went on to learn HTML5, CSS3, JavaScript, React, Node and MongoDB from a number of online sources, including <a href="https://www.frontendmasters.com" target="_blank" rel="noopener noreferrer">FrontendMasters</a>, <a href="https://www.freecodecamp.org" target="_blank" rel="noopener noreferrer">FreeCodeCamp</a> and <a href="https://www.betterchalk.com" target="_blank" rel="noopener noreferrer">Betterchalk</a> (previously known as <code>Edconnect</code>) etc, just to name a few. <br />
 Around mid 2021 I got into Technical writing to better understand key concepts in JavaScript and I published my first article on <code>JavaScript Closures</code> here on <a href="https://www.dev.to/tonyedgal" target="_blank" rel="noopener noreferrer">Dev</a>. I am open to collaborating on projects and innovative ideas. you can connect with me here:
