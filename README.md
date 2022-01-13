@@ -1,9 +1,7 @@
 <h2 align="center">📈 Github Stats</h2>
 <p align="center">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=tonyedgal&show_icons=true&theme=city_lights" />
-</p>
-<p align="center">
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tonyedgal&theme=city-lights" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tonyedgal&show_icons=true&theme=city_lights&border_color=1D252C" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tonyedgal&theme=city-lights" />
 </p>
 
 [![Tony's github activity graph](https://activity-graph.herokuapp.com/graph?username=tonyedgal&theme=react-dark)](https://github.com/tonyedgal/github-readme-activity-graph)
