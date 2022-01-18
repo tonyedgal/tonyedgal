@@ -8,13 +8,13 @@
 
 <h2 align="center">⚡ Technologies</h2>
 
-### Language :
+### Languages :
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-### Libraries & Framework :
+### Libraries & Frameworks :
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -34,15 +34,18 @@
 <h2 align="center">📜About Me</h2>
 <p align="justify">
 I began my developer journey on December 15th, 2020 on <a href="https://www.bitdegree.org" target="_blank" rel="noopener noreferrer">Bitdegree</a> by building the <code>Space Doggos</code> website. I subsequently went on to learn HTML5, CSS3, JavaScript, React, Node and MongoDB from a number of online sources, including <a href="https://www.frontendmasters.com" target="_blank" rel="noopener noreferrer">FrontendMasters</a>, <a href="https://www.freecodecamp.org" target="_blank" rel="noopener noreferrer">FreeCodeCamp</a> and <a href="https://www.betterchalk.com" target="_blank" rel="noopener noreferrer">Betterchalk</a> (previously known as <code>Edconnect</code>) etc, just to name a few. <br />
-Around mid 2021 I got into Technical writing to better understand key concepts in JavaScript and I published my first article on <code>JavaScript Closures</code> here on <a href="https://www.dev.to/tonyedgal" target="_blank" rel="noopener noreferrer">Dev</a>. I am open to collaborating on projects and innovative ideas. you can connect with me here:
+Around mid 2021 I got into Technical writing to better understand key concepts in JavaScript and I published my first article on <code>JavaScript Closures</code> here on <a href="https://www.dev.to/tonyedgal" target="_blank" rel="noopener noreferrer">Dev</a>. I am open to collaborating on projects and innovative ideas.
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Anthonyedgal-blue?style=flat-square&labelColor=000000&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/anthony-edgal-8ba13715b)](https://www.linkedin.com/in/anthony-edgal-8ba13715b)
-[![Instagram Badge](https://img.shields.io/badge/-@Tonyedgal-purple?style=flat-square&labelColor=000000&logo=instagram&logoColor=white&link=https://instagram.com/tonyedgal)](https://instagram.com/tonyedgal)
-[![Twitter Badge](https://img.shields.io/badge/-@TonyEdgal-blue?style=flat-square&labelColor=000000&logo=twitter&logoColor=blue&link=https://twitter.com/TonyEdgal)](https://twitter.com/TonyEdgal)
-[![Gmail Badge](https://img.shields.io/badge/-Tonyedgal@gmail.com-c14438?style=flat-square&labelColor=000000&logo=Gmail&logoColor=c14438&link=mailto:tonyedgal@gmail.com)](mailto:tonyedgal@gmail.com)
-[![Dev.to Badge](https://img.shields.io/badge/-@Tonyedgal-03a57a?style=flat-square&labelColor=000000&logo=dev.to&link=https://dev.to/tonyedgal)](https://dev.to/tonyedgal)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&labelColor=000000&logo=react&logoColor=61DAFB&link=https://bit.ly/tonyedgalportfolio)](https://bit.ly/tonyedgalportfolio)
+<h3 align="center">Connect with me here:</h3>
+<p align="center">
+<a href="https://twitter.com/TonyEdgal" target="blank"><img align="center" src="https://github.com/tonyedgal/tonyedgal/blob/main/assets/twitter.svg" alt="tonyedgaltwitter" height="30" width="30" /></a>  
+<a href="https://www.linkedin.com/in/anthony-edgal-8ba13715b" target="blank"><img align="center" src="https://github.com/tonyedgal/tonyedgal/blob/main/assets/linkedin.svg" alt="tonyedgallinkedin" height="30" width="30" /></a>  
+<a href="https://instagram.com/tonyedgal" target="blank"><img align="center" src="https://github.com/tonyedgal/tonyedgal/blob/main/assets/instagram.svg" alt="tonyedgalinstagram" height="30" width="30" /></a>  
+<a href="mailto:tonyedgal@gmail.com" target="blank"><img align="center" src="https://github.com/tonyedgal/tonyedgal/blob/main/assets/gmail.svg" alt="tonyedgalgmail" height="30" width="30" /></a>  
+<a href="https://dev.to/tonyedgal" target="blank"><img align="center" src="https://github.com/tonyedgal/tonyedgal/blob/main/assets/dev.svg" alt="tonyedgaldevto" height="30" width="30" /></a>  
+<a href="https://bit.ly/tonyedgalportfolio" target="blank"><img align="center" src="https://github.com/tonyedgal/tonyedgal/blob/main/assets/portfolio.svg" alt="tonyedgalportfolio" height="30" width="30" /></a>
+</p>
 
 <p align="center">
     <img width="75%" src="./ReadMe.png" alt="Hello" />
