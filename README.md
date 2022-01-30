@@ -38,10 +38,6 @@ Around mid 2021 I got into Technical writing to better understand key concepts i
 <a href="https://bit.ly/tonyedgalportfolio" target="blank"><img align="center" src="https://github.com/tonyedgal/tonyedgal/blob/main/assets/portfolio.svg" alt="tonyedgalportfolio" height="30" width="30" /></a>
 </p>
 
-<p align="center">
-    <img width="75%" src="./ReadMe.png" alt="Hello" />
-</p>
-
 <!---
 tonyedgal/tonyedgal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
