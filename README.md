@@ -28,7 +28,7 @@ I began my developer journey on December 15th, 2020 on <a href="https://www.bitd
 Around mid 2021 I got into Technical writing to better understand key concepts in JavaScript and I published my first article on <code>JavaScript Closures</code> here on <a href="https://www.dev.to/tonyedgal" target="_blank" rel="noopener noreferrer">Dev</a>. I am open to collaborating on projects and innovative ideas.
 </p>
 
-<h3 align="center">Connect with me here:</h3>
+<h3 align="center">Connect with me here</h3>
 <p align="center">
 <a href="https://twitter.com/TonyEdgal" target="blank"><img align="center" src="https://github.com/tonyedgal/tonyedgal/blob/main/assets/twitter.svg" alt="tonyedgaltwitter" height="30" width="30" /></a>  
 <a href="https://www.linkedin.com/in/anthony-edgal-8ba13715b" target="blank"><img align="center" src="https://github.com/tonyedgal/tonyedgal/blob/main/assets/linkedin.svg" alt="tonyedgallinkedin" height="30" width="30" /></a>  
@@ -37,8 +37,3 @@ Around mid 2021 I got into Technical writing to better understand key concepts i
 <a href="https://dev.to/tonyedgal" target="blank"><img align="center" src="https://github.com/tonyedgal/tonyedgal/blob/main/assets/dev.svg" alt="tonyedgaldevto" height="30" width="30" /></a>  
 <a href="https://bit.ly/tonyedgalportfolio" target="blank"><img align="center" src="https://github.com/tonyedgal/tonyedgal/blob/main/assets/portfolio.svg" alt="tonyedgalportfolio" height="30" width="30" /></a>
 </p>
-
-<!---
-tonyedgal/tonyedgal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
