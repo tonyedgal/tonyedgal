@@ -1,8 +1,8 @@
 <p align="center">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyedgal&layout=compact&theme=city_lights&border_color=1D252C" /> 
+    <img width="50%" src="https://readme-stats.clckblog.space/api/top-langs/?username=tonyedgal&layout=compact&theme=city_lights&border_color=1D252C&count_private=true" /> 
 </p>
 <p align="center">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=tonyedgal&show_icons=true&theme=city_lights&border_color=1D252C" />
+    <img width="49.5%" src="https://readme-stats.clckblog.space/api?username=tonyedgal&show_icons=true&theme=city_lights&border_color=1D252C&count_private=true" />
     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tonyedgal&theme=city-lights" />  
 </p>
 
