@@ -10,6 +10,6 @@
 </p>
 </p>
 
-[![Tony's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tonyedgal&theme=react-dark)](https://github.com/tonyedgal/github-readme-activity-graph)
+
 
 
